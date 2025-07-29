@@ -24,7 +24,7 @@ cd gym-trainer-website
 Step 3: Open index.html in your web browser.
 For contact form functionality, run the site on a PHP server (like XAMPP).
 
-📁 Project Structure
+## 📁 Project Structure
 ```bash
 ├── index.html              # Homepage
 ├── about.html              # About the trainer
@@ -35,7 +35,7 @@ For contact form functionality, run the site on a PHP server (like XAMPP).
 ├── contact_process.php     # PHP backend for form submission
 ```
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 HTML5 – Website structure
 
 CSS3 – Styling and responsive layout
@@ -44,18 +44,18 @@ JavaScript – (Optional interactivity)
 
 PHP – Contact form backend
 
-📥 How to Use
+## 📥 How to Use
 Open index.html in your browser.
 
 To make the contact form work, host the site using XAMPP or any PHP-supported server.
 
 Customize text, images, and style as needed in the .html and .css files.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork the repository and submit a pull request with improvements.
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License.
 You are free to use it for personal or educational purposes. Please replace demo content and images before using it commercially.
 
