@@ -1,4 +1,4 @@
-# Gym-Trainer-Website# 💪 Gym Trainer Website
+# 💪 Gym Trainer Website
 
 *Gym Trainer* is a fully responsive personal trainer and fitness website.  
 It is built using *HTML, **CSS, and **PHP*, and is optimized for both desktop and mobile devices.  
@@ -27,7 +27,7 @@ Step 3: Open index.html in your web browser.
 For contact form functionality, run the site on a PHP server (like XAMPP).
 
 ## 📁 Project Structure
-bash
+```bash
 ├── index.html              # Homepage
 ├── about.html              # About the trainer
 ├── courses.html            # Training programs
@@ -35,7 +35,7 @@ bash
 ├── gallery.html            # Gym and transformation images
 ├── contact.html            # Contact form
 ├── contact_process.php     # PHP backend for form submission
-
+```
 
 ## 🛠 Technologies Used
 HTML5 – Website structure
