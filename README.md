@@ -4,22 +4,25 @@
 It is built using *HTML, **CSS, and **PHP*, and is optimized for both desktop and mobile devices.  
 The site promotes services like bodybuilding, muscle gain, and weight loss, with clean layout and interactive sections.
 
-➥ *Live Demo* (http://127.0.0.1:5500/index.html)
+## Live Demo
+
+[Try it Live](https://Sudeep-Bhandari.github.io/Gym-Trainer-Website/)  
 
 ---
+
 
 ## 🔧 Installation
 
 *Step 1:* Clone the repository:
 
-bash
+```bash
 git clone https://github.com/your-username/gym-trainer-website.git
-
+```
 
 **Step 2: Navigate to the project folder:
-bash
+```bash
 cd gym-trainer-website
-
+```
 
 Step 3: Open index.html in your web browser.
 For contact form functionality, run the site on a PHP server (like XAMPP).
