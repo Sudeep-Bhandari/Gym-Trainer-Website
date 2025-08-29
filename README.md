@@ -4,7 +4,7 @@
 It is built using *HTML, **CSS, and **PHP*, and is optimized for both desktop and mobile devices.  
 The site promotes services like bodybuilding, muscle gain, and weight loss, with clean layout and interactive sections.
 
-
+##  Live Demo
 ![Live Demo](https://Sudeep-Bhandari.github.io/Gym-Trainer-Website/)  
 
 ---
